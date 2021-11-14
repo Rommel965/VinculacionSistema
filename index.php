@@ -4,12 +4,12 @@
         <div class="main-container">
             <input type="text"><input type="text">
             <select name="" id="">
-                <option selected disabled="">Selecciona una opcion</option>
+                <option selected disabled="">Carrera</option>
                 <option value="">Opcion 1</option>
                 <option value="">Opcion 2</option>
                 <option value="">Opcion 3</option>
             </select>
-            <button class="btn" type="button">Guardar</button>
+            <button class="btn" type="button">Nuevo</button>
             
         </div>
     </section>
