@@ -3,7 +3,6 @@
     <section>
         <div class="btn-container">
             <button class="btn btn-primary" type="button">Guardar</button>
-            <button class="btn btn-primary" type="button">Agregar vacantes</button>
         </div>
     </section>
     <section>
@@ -26,6 +25,7 @@
                 <option value=""> Opcion 5 </option>
             </select><br><br>
             <button class="btn btn-primary" type="button">Agregar departamento</button><br><br>
+            <button class="btn btn-primary" type="button">Agregar Vacantes</button><br><br>
             <table class="table table-light table-bordered">
                 <tbody>
                     <tr>

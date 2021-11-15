@@ -9,8 +9,8 @@
                 <option value="">Opcion 2</option>
                 <option value="">Opcion 3</option>
             </select>
-            <a href="pagina2.php"><input type="button" value="Nuevo"></a>
-            
+            <a href="proyectov2.php"><input type="button" value="Nuevo"></a>
+            <a href="index.php"><input type="button" value="Cerrar"></a>
         </div>
     </section>
     <section>
