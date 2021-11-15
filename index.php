@@ -9,7 +9,7 @@
                 <option value="">Opcion 2</option>
                 <option value="">Opcion 3</option>
             </select>
-            <button class="btn" type="button">Nuevo</button>
+            <a href="pagina2.php"><input type="button" value="Nuevo"></a>
             
         </div>
     </section>
