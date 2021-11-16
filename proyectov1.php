@@ -2,7 +2,7 @@
     
     <section>
         <div class="main-container">
-            <input type="text"><input type="text">
+            <input type="text">
             <select name="" id="">
                 <option selected disabled="">Carrera</option>
                 <option value="">Opcion 1</option>
