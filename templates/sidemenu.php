@@ -17,13 +17,13 @@
         <div id="menu-items">
             <div class="item">
                 <a href="#">
-                    <div class="title"><span>Opcion 1</span></div>
+                    <div class="title"><span>Registro Empresas</span></div>
                 </a>
                 <a href="#">
-                    <div class="title"><span>Opcion 2</span></div>
+                    <div class="title"><span>Registro Proyectos</span></div>
                 </a>
                 <a href="#">
-                    <div class="title"><span>Opcion 3</span></div>
+                    <div class="title"><span>Asignacion Alumnos</span></div>
                 </a>
             </div>
         </div>
