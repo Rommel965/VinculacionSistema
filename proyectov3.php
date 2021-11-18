@@ -9,6 +9,7 @@
     </section>
     <section>
         <div class="input-container">
+            <input type="text"><br><br><input type="text"><br><br>
             <select name="" id="">
             <option selected disabled="">Carrera</option>
                 <option value=""> Opcion 1 </option>

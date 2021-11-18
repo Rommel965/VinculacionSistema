@@ -1,5 +1,5 @@
 <?php include "templates/header.php" ?>
-    
+
     <section>
         <div class="main-container">
             <input type="text"><input type="text">
