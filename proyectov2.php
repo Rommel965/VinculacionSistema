@@ -12,10 +12,10 @@
             <input type="text"><br><br><input type="text"><br><br>
             <select name="" id="">
             <option selected disabled="">Periodo</option>
-                <option value=""> Opcion 1 </option>
-                <option value=""> Opcion 2 </option>
-                <option value=""> Opcion 3 </option>
-                <option value=""> Opcion 4 </option>
-                <option value=""> Opcion 5 </option>
+                <option value=""> 2020-2021</option>
+                <option value=""> 2021-2022 </option>
+                <option value=""> 2022-2023 </option>
+                <option value="">  </option>
+                <option value="">  </option>
             </select><br><br>
         </section>

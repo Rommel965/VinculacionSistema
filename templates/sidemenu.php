@@ -1,7 +1,7 @@
     <div id="sidemenu" class="menu-expanded">
 
         <div id="header">
-            <div id="title"><span> Proyecto </span></div>
+            <div id="title"><span> RESIDENCIAS </span></div>
             <div id="menu-btn">
                 <div class="btn-proyecto"></div>
                 <div class="btn-proyecto"></div>
@@ -16,13 +16,13 @@
 
         <div id="menu-items">
             <div class="item">
-                <a href="#">
+                <a href="pagina2.php">
                     <div class="title"><span>Registro Empresas</span></div>
                 </a>
-                <a href="#">
+                <a href="proyectov1.php">
                     <div class="title"><span>Registro Proyectos</span></div>
                 </a>
-                <a href="#">
+                <a href="asigalumv1.php">
                     <div class="title"><span>Asignacion Alumnos</span></div>
                 </a>
             </div>

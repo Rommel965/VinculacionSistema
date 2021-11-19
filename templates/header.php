@@ -19,13 +19,13 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <ul class="nav">
             <li class="nav-item active">
-            <a class="nav-link" href="#"> Categoria 1 </a>
+        
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"> Categoria 2 </a>
+            
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#"> Categoria 3 </a>
+            
             </li>
             
             </ul>

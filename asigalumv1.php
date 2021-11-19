@@ -5,9 +5,9 @@
            
             <select name="" id="">
                 <option selected disabled="">Lista Alumnos</option>
-                <option value="">Opcion 1</option>
-                <option value="">Opcion 2</option>
-                <option value="">Opcion 3</option>
+                <option value=""></option>
+                <option value=""></option>
+                <option value=""></option>
             </select>
             <button class="btn btn-primary" type="button">Buscar</button>
             
