@@ -15,56 +15,18 @@
             <input type="text" name="nombre" id="nombre"><br><br>
             <input type="text" name="representante" id="representante"><br><br>
             <select name="estado" id="estado">
-                <option value=""> Estado</option>
-                <option value=""> Aguascalientes </option>
-                <option value=""> Baja California</option>
-                <option value=""> Baja California Sur </option>
-                <option value=""> Campeche </option>
-                <option value=""> Chiapas  </option>
-                <option value=""> Chihuahua</option>
-                <option value=""> Ciudad de México</option>
-                <option value=""> Coahuila </option>
-                <option value=""> Colima  </option>
-                <option value=""> Durango</option>
-                <option value=""> Guanajuato </option>
-                <option value=""> Guerrero </option>
-                <option value=""> Hidalgo </option>
-                <option value=""> Jalisco </option>
-                <option value=""> Michoacán</option>
-                <option value=""> Morelos</option>
-                <option value=""> Nayarit</option>
-                <option value=""> Nuevo León </option>
-                <option value=""> Oaxaca </option>
-                <option value=""> Puebla </option>
-                <option value=""> Querétaro </option>
-                <option value=""> Quintana Roo</option>
-                <option value=""> San Luis Potosí </option>
-                <option value=""> Sinaloa</option>
-                <option value=""> Sonora </option>
-                <option value=""> Tabasco </option>
-                <option value=""> Tamaulipas </option>
-                <option value=""> Tlaxcala</option>
-                <option value=""> Veracruz </option>
-                <option value=""> Yucatán</option>
-                <option value=""> Zacatecas </option>
-
-
+                <option value="Campeche"> Campeche</option>
+                <option value=""> ccc </option>
+                <option value=""> Opcion 3 </option>
+                <option value=""> Opcion 4 </option>
+                <option value=""> Opcion 5 </option>
             </select><br><br>
             <select name="ciudad" id="ciudad">
-                <option value=""> Ciudad  </option>
-                <option value=""> Aguascalientes </option>
-                <option value=""> Campeche </option>
-                <option value=""> Cancún </option>
-                <option value=""> Chetumal </option>
-                <option value=""> Chihuahua</option>
-                <option value=""> Ciudad del Carmen</option>
-                <option value=""> Colima</option>
-                <option value=""> Durango</option>
-                <option value=""> Orizaba</option>
-                <option value=""> Piedras Negras</option>
-                <option value=""> Playa del Carmen</option>
-                <option value=""> Veracruz</option>
-                <option value=""> Villahermosa</option>
+                <option value="Calkini"> Calkiní </option>
+                <option value=""> Opcion 2 </option>
+                <option value=""> Opcion 3 </option>
+                <option value=""> Opcion 4 </option>
+                <option value=""> Opcion 5 </option>
             </select><br><br>
             <button class="btn btn-primary" type="button">Agregar departamento</button><br><br>
         </form>
