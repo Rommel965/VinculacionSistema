@@ -12,21 +12,43 @@
                 type="submit">Guardar</button>
             
 
-            <input type="text" name="nombre" id="nombre"><br><br>
+                <input type="text" name="nombre" id="nombre"><br><br>
             <input type="text" name="representante" id="representante"><br><br>
             <select name="estado" id="estado">
-                <option value="Campeche"> Campeche</option>
-                <option value=""> ccc </option>
-                <option value=""> Opcion 3 </option>
-                <option value=""> Opcion 4 </option>
-                <option value=""> Opcion 5 </option>
+                <option value=""> Estado</option>
+                <option value="Aguascalientes"> Aguascalientes </option>
+                <option value="Baja California"> Baja California</option>
+                <option value="Baja California Sur"> Baja California Sur </option>
+                <option value="Campeche"> Campeche </option>
+                <option value="Chiapas "> Chiapas  </option>
+                <option value="Chihuahua"> Chihuahua</option>
+                <option value="Ciudad de México"> Ciudad de México</option>
+                <option value="Coahuila"> Coahuila </option>
+                <option value="Colima"> Colima  </option>
+                <option value="Durango"> Durango</option>
+                <option value="Guanajuato"> Guanajuato </option>
+                <option value="Guerrero"> Guerrero </option>
+                <option value="Hidalgo"> Hidalgo </option>
+                <option value="Jalisco "> Jalisco </option>
+                <option value="Veracruz"> Veracruz </option>
+                <option value="Yucatán"> Yucatán</option>
+                <option value=""> Zacatecas </option>
+
+
             </select><br><br>
             <select name="ciudad" id="ciudad">
-                <option value="Calkini"> Calkiní </option>
-                <option value=""> Opcion 2 </option>
-                <option value=""> Opcion 3 </option>
-                <option value=""> Opcion 4 </option>
-                <option value=""> Opcion 5 </option>
+                <option value=""> Ciudad  </option>
+                <option value="Campeche"> Campeche </option>
+                <option value="Cancún"> Cancún </option>
+                <option value="Chetumal"> Chetumal </option>
+                <option value="Chihuahua"> Chihuahua</option>
+                <option value="Ciudad del Carmen"> Ciudad del Carmen</option>
+                <option value="Colima"> Colima</option>
+                <option value="Durango"> Durango</option>
+                <option value="Orizaba"> Orizaba</option>
+                <option value="Playa del Carmen"> Playa del Carmen</option>
+                <option value="Veracruz"> Veracruz</option>
+                <option value=" Villahermosa"> Villahermosa</option>
             </select><br><br>
             <button class="btn btn-primary" type="button">Agregar departamento</button><br><br>
         </form>
